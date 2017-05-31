@@ -1,8 +1,8 @@
  hey there, have a great day.
-<<<<<<< HEAD
 Harini modified Sharu's file. 
-Sharanya looks pretty happy :D
-=======
+Sharanya looks pretty happy :DHarini modified Sharu's file.
+This is modified by lavanya 
+Hi , good afternoon.
 Harini modified Sharu's file.
 This is modified by lavanya 
->>>>>>> 487d829c5d67177e88adf5320acc4a611c89d4f5
+
