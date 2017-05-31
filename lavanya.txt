@@ -5,8 +5,15 @@ lavanya
 hi lav
 Please don’t mess up. :(
 This is stuti for you 
-Second line by stuti.
+Second line by stut<<<<<<< HEAD
 
 this is megha
 Third line by stuti.
+=======
+Third line by stuti.
+HEAD
+hi lavanya.
+
+Second messing session begins.
+>>>>>>> 6411c25ee2a5af1e45f34dc3a4ced752daa88718
 

@@ -6,8 +6,17 @@ hi this is megh
 how r u
 This is my first file created in learnGit repo.
 Hi Harini, you've a intruder! 
+
+Hi, Harini ur code is being modified.
+
+Hello, Hairini :)
+No one has looked here its seems :(
+Hi Harini.
 Hello, Hairini. This is stuti:)
 No one has looked here its seems :(
 Second line by stuti.
+
 hi this is megha
+Hi again, bud! :D
+
 
