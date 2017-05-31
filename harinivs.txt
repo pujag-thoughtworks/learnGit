@@ -1,5 +1,12 @@
+
 This is my first file created in learnGit repo.i
 Hi Harini, you've a intruder!
 hi making changes 
 hi this is megh	
 how r u
+This is my first file created in learnGit repo.
+Hi Harini, you've a intruder! 
+Hello, Hairini. This is stuti:)
+No one has looked here its seems :(
+Second line by stuti.
+
