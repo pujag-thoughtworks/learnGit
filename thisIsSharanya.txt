@@ -4,10 +4,8 @@ Sharanya looks pretty happy :DHarini modified Sharu's file.
 This is modified by lavanya 
 Hi , good afternoon.
 Harini modified Sharu's file.
-<<<<<<< HEAD
 This is  by lavanya
 This is once gaain modifie dby lavanya 
-=======
 This is modified by lavanya 
 Updating my file.
->>>>>>> b15460f354877b0d1f715ac6a630fa6b2dadbf04
+This is stuti Here.
