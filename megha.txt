@@ -1,2 +1,6 @@
 hello, learning git
+<<<<<<< HEAD
+Hey Megha, How are you?
+=======
 Yo Megs, Bwhahaha :D
+>>>>>>> 487d829c5d67177e88adf5320acc4a611c89d4f5

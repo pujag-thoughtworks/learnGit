@@ -1,3 +1,10 @@
 Hi this is Puja
+<<<<<<< HEAD
+Oh, Hello! Puja :)
+=======
 modifying
+<<<<<<< HEAD
+>>>>>>> 487d829c5d67177e88adf5320acc4a611c89d4f5
+=======
 Pujaa :P
+>>>>>>> f00b17867ca691835496b5305a116dedb0e22868
