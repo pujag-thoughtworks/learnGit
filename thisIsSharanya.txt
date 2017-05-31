@@ -8,5 +8,12 @@ This is  by lavanya
 This is once gaain modifie dby lavanya 
 This is modified by lavanya 
 Updating my file.
+<<<<<<< HEAD
 This is stuti Here.
 This is change made by lavanya from Lavanya branch
+=======
+
+Hi sharanya.
+This is stuti Here.
+
+>>>>>>> 446ba6d45234bb8d09cc5176dd38171eead98c91

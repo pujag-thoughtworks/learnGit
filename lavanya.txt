@@ -5,4 +5,12 @@ Please don’t mess up. :(
 This is stuti for you 
 Second line by stuti.
 Third line by stuti.
+<<<<<<< HEAD
 This is modified by lavanya from puja's branch 
+=======
+HEAD
+hi lavanya.
+
+Second messing session begins.
+
+>>>>>>> 446ba6d45234bb8d09cc5176dd38171eead98c91
