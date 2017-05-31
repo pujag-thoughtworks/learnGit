@@ -4,11 +4,10 @@ Pujaa :P
 This is Stuti.
 Second line added by stuti
 Hey Puja, this is Harini 
-<<<<<<< HEAD
 Hi, changing my file again.
 Hey Puja, this is Harini
 Pujaa :D :P 
-
-=======
+Hi, changing my file again.
+Hey Puja, this is Harini
+Pujaa :D :P 
 So these changes are being made in branch-stuti.
->>>>>>> branch-stuti
