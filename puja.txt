@@ -1,2 +1,6 @@
 Hi this is Puja
+<<<<<<< HEAD
 Oh, Hello! Puja :)
+=======
+modifying
+>>>>>>> 487d829c5d67177e88adf5320acc4a611c89d4f5
