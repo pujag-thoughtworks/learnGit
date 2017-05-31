@@ -1,6 +1,8 @@
 hello, learning git
-<<<<<<< HEAD
 Hey Megha, How are you?
-=======
 Yo Megs, Bwhahaha :D
->>>>>>> 487d829c5d67177e88adf5320acc4a611c89d4f5
+This is Stuti at your service :)
+A second line added - by stuti
+Messers also become the Messiees! shar
+Hey Stuti and Megha :D 
+So we are playing. Nice!
