@@ -10,6 +10,13 @@ hi this is megha
 
 =======
 Updating my file.
+<<<<<<< HEAD
 This is stuti Here.
 hi megha here
 >>>>>>> 46438dbc11b7f669586a2f51ebd059cd9d9f1a9c
+=======
+
+Hi sharanya.
+This is stuti Here.
+
+>>>>>>> master
