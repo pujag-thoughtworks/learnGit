@@ -4,19 +4,25 @@ Sharanya looks pretty happy :DHarini modified Sharu's file.
 This is modified by lavanya 
 Hi , good afternoon.
 Harini modified Sharu's file.
+This is  by lavanya
+This is once gaain modifie dby lavanya 
 This is modified by lavanya 
-<<<<<<< HEAD
+
 hi this is megha
 
-=======
+
 Updating my file.
-<<<<<<< HEAD
+ 
 This is stuti Here.
 hi megha here
->>>>>>> 46438dbc11b7f669586a2f51ebd059cd9d9f1a9c
-=======
+
+
+This is stuti Here.
+hi megha here
+
 
 Hi sharanya.
 This is stuti Here.
 
->>>>>>> master
+This is stuti Here.
+This is change made by lavanya from Lavanya branch
